@@ -1,7 +1,7 @@
 <p align="center"> <img width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59" alt="azioizanass" /> </p>
 
 <h1 align="center">Hi 👋, I'm Anas Azioiz</h1>
-<h3 align="center">A Software Engineering Student </h3>
+<h3 align="center">A Software Engineering Student ,I'm interested in Web and Mobile Development.In this profile,I share the projects I did in my learning journey .</h3>
 
 ## 🙋‍♂️ About Me
 <br/>
@@ -25,7 +25,7 @@
  <a href="https://github.com/AzioizAnass/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzioizAnass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AzioizAnass/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzioizAnass&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
 
-## Connect with me:
+## Feel free to connect with me: 
 <p align="left">
 <a href="https://linkedin.com/in/anas-azioiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-azioiz" height="30" width="40" /></a>
 <a href="https://fb.com/anas.azioiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.azioiz" height="30" width="40" /></a>
