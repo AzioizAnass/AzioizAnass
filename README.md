@@ -1,7 +1,7 @@
 <p align="center"> <img width="500" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59" alt="azioizanass" /> </p>
 
 <h1 align="center">Hi 👋, I'm Anas Azioiz</h1>
-<h3 align="center">A Software engineering student </h3>
+<h3 align="center">A Software Engineering Student </h3>
 
 ## 🙋‍♂️ About Me
 <br/>
