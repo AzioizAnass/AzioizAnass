@@ -1,7 +1,7 @@
 <p align="center"> <img width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59" alt="azioizanass" /> </p>
 
-<h1 align="center">Hi 👋, I'm Anas Azioiz</h1>
-<h3 align="center">A Software Engineering Student ,I'm interested in Web and Mobile Development.In this profile,I share the projects I did in my learning journey .</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Azioiz</h1>
+<h3 align="center">A Software Engineering Student ,I'm interested in Web and Mobile Development . In this profile , I share the projects I did in my learning journey .</h3>
 
 ## 🙋‍♂️ About Me
 <br/>
