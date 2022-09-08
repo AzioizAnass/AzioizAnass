@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anas Azioiz</h1>
 <h3 align="center">A Software engineering student </h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=azioizanass&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59)" alt="azioizanass" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59" alt="azioizanass" /> </p>
 
 - 🔭 I'm currently studying [ENSAO ](http://ensao.ump.ma/).
 
 - 🌱 I’m currently learning **Spring Boot And ReactJs**.
 
-- 👯 I’m looking to collaborate on **on OpenSource Projects **.
+- 👯 I’m looking to collaborate on **on OpenSource Projects**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
