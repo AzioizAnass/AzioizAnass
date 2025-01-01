@@ -3,6 +3,7 @@
   <a href="https://linkedin.com/in/anas-azioiz"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <a href="https://github.com/AzioizAnass"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
+---
 
 ## 👨‍💻 **About Me**  
 I’m a passionate **Full Stack Engineer** with a love for building impactful solutions using **Java** and **React**. I enjoy designing, developing, and maintaining scalable and efficient web applications. My focus is on continuous learning and mastering cutting-edge technologies to deliver high-quality software. 🌱  
