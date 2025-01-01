@@ -1,32 +1,71 @@
-<p align="center"> <img width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1662655456~exp=1662656056~hmac=717ce6d243df6e1ec70fb773eaf6ca120b90101deab82854747572352a592c59" alt="azioizanass" /> </p>
+# 🌟 Anas Azioiz - Full Stack Engineer 🚀
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Azioiz</h1>
-<h3 align="center">I'm a passionate full stack engineer specializing in Java (Spring Boot) and React JS. Java is my language of choice, and I'm dedicated to mastering these technologies.</h3>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AzioizAnass.visitor-badge)](https://github.com/AzioizAnass)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-azioiz)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/AzioizAnass)  
 
-## 🚀 Languages and Tools:
-<br/>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer">  </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-## 📊 My Github Stats:
-<br/>
- <div align="center">
- <a href="https://github.com/AzioizAnass/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AzioizAnass&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a></div>
-    <div align="center">
- <a href="https://github.com/AzioizAnass/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzioizAnass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AzioizAnass/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzioizAnass&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
+👨‍💻 **About Me**  
+I’m a passionate **Full Stack Engineer** with a love for building impactful solutions using **Java** and **React**. I enjoy designing, developing, and maintaining scalable and efficient web applications. My focus is on continuous learning and mastering cutting-edge technologies to deliver high-quality software. 🌱  
 
-## Feel free to connect with me: 
-<p align="left">
-<a href="https://linkedin.com/in/anas-azioiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-azioiz" height="30" width="40" /></a>
-<a href="https://fb.com/anas.azioiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.azioiz" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">My Email : azioiz.anass@gmail.com</h3>
+🔧 **Tech Stack**
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AzioizAnass">
-</a>
-<a href="https://github.com/AzioizAnass?tab=followers"><img src="https://img.shields.io/github/followers/AzioizAnass?label=Followers&style=social" alt="GitHub Badge"></a>
+- **Frontend**:  
+  ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
+  ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
+
+- **Backend**:  
+  ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=springboot&logoColor=white)  
+  ![REST APIs](https://img.shields.io/badge/-REST%20API-lightgrey?logo=swagger&logoColor=white)
+
+- **DevOps**:  
+  ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-red?logo=jenkins&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
+
+---
+
+## 🎯 Passion Projects
+
+I have worked on various personal and academic projects, which you can explore in my GitHub repositories! These include:
+
+- **Chat Application**: A project to explore the environment and functioning of WebSockets through **Spring WebSocket**.  
+  [GitHub Repository](https://github.com/AzioizAnass/chat-application)
+
+- **Chat Application Backend**: This is an evolution of the first project, where I integrated a user system based on **Spring Security**. It also includes a blog feature (articles, comments for articles, etc.).  
+  [GitHub Repository](https://github.com/AzioizAnass/chat-application-backend)
+
+- **Food Delivery Mobile Application**: A mobile application for food delivery developed using **Java** and **Android Studio**.  
+  [GitHub Repository](https://github.com/AzioizAnass/androidResteauProject-master)
+
+- **Resume Builder**: An application for generating resumes, with the frontend in **React** and the backend powered by **Firebase**.  
+  [GitHub Repository](https://github.com/AzioizAnass/resume_builder)
+
+---
+
+🌍 **Languages**  
+
+- **French**: Delf B2  
+- **English**: Intermediate  
+- **Arabic**: Native  
+
+---
+
+📩 **Get in Touch**  
+
+📧 Email: azioiz.anass@gmail.com  
+📍 Location: Oujda, Morocco  
+
+---
+
+✨ *Explore my repositories and let’s build something amazing together!*
