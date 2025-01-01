@@ -4,9 +4,7 @@
   <a href="https://github.com/AzioizAnass"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
 
----
-
-👨‍💻 **About Me**  
+## 👨‍💻 **About Me**  
 I’m a passionate **Full Stack Engineer** with a love for building impactful solutions using **Java** and **React**. I enjoy designing, developing, and maintaining scalable and efficient web applications. My focus is on continuous learning and mastering cutting-edge technologies to deliver high-quality software. 🌱  
 
 ---
@@ -28,7 +26,7 @@ I have worked on various personal and academic projects, which you can explore i
   [GitHub Repository](https://github.com/AzioizAnass/resume_builder)
 
 ---
-🔧 **Tech Stack**
+## 🔧 **Tech Stack**
 
 - **Backend**:  
   <p align="flex" >
@@ -61,7 +59,7 @@ I have worked on various personal and academic projects, which you can explore i
 
 ---
 
-🌍 **Languages**  
+## 🌍 **Languages**  
 
 - **French**: Delf B2  
 - **English**: Intermediate  
@@ -69,7 +67,7 @@ I have worked on various personal and academic projects, which you can explore i
 
 ---
 
-📩 **Get in Touch**  
+## 📩 **Get in Touch**  
 
 📧 Email: azioiz.anass@gmail.com  
 📍 Location: Oujda, Morocco  
