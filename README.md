@@ -40,7 +40,7 @@ I have worked on various personal and academic projects, which you can explore i
 
 - **Backend**:  
   <p align="flex" >
-    <img src="https://img.shields.io/badge/-Java-red?logo=java&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/-Spring%20Boot-green?logo=springboot&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/-REST%20API-lightgrey?logo=swagger&logoColor=white" height="30" />
   </p>
