@@ -30,6 +30,13 @@ I have worked on various personal and academic projects, which you can explore i
 ---
 🔧 **Tech Stack**
 
+- **Backend**:  
+  <p align="flex" >
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-Spring%20Boot-green?logo=springboot&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-REST%20API-lightgrey?logo=swagger&logoColor=white" height="30" />
+  </p>
+
 - **Frontend**:
   <p align="flex">
     <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" height="30" />
@@ -38,11 +45,10 @@ I have worked on various personal and academic projects, which you can explore i
     <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white" height="30" />
   </p>
 
-- **Backend**:  
+- **Databases**:  
   <p align="flex" >
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-Spring%20Boot-green?logo=springboot&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-REST%20API-lightgrey?logo=swagger&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white" height="30" />
   </p>
 
 - **DevOps**:  
@@ -52,11 +58,6 @@ I have worked on various personal and academic projects, which you can explore i
     <img src="https://img.shields.io/badge/-Jenkins-red?logo=jenkins&logoColor=white" height="30" />
   </p>
 
-- **Databases**:  
-  <p align="flex" >
-    <img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white" height="30" />
-  </p>
 
 ---
 
