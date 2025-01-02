@@ -61,14 +61,6 @@ I have worked on various personal and academic projects, which you can explore i
 
 ---
 
-## 🌍 **Languages**  
-
-- **French**: Delf B2  
-- **English**: Intermediate  
-- **Arabic**: Native  
-
----
-
 ## 📩 **Get in Touch**  
 
 📧 Email: azioiz.anass@gmail.com  
