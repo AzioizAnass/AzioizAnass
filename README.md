@@ -15,11 +15,14 @@ I’m a passionate **Full Stack Engineer** with a love for building impactful so
 
 I have worked on various personal and academic projects, which you can explore in my GitHub repositories! These include:
 
-- **Chat Application**: A project to explore the environment and functioning of WebSockets through **Spring WebSocket**.  
+- **Basic Chat Application**: A project to explore the environment and functioning of WebSockets through **Spring WebSocket**.  
   [GitHub Repository](https://github.com/AzioizAnass/chat-application)
 
 - **Chat Application Backend**: This is an evolution of the first project, where I integrated a user system based on **Spring Security**. It also includes a blog feature (articles, comments for articles, etc.).  
   [GitHub Repository](https://github.com/AzioizAnass/chat-application-backend)
+
+- **Blog Chat Frontend**: A continuation of the "Chat Application Backend," this project combines a blog with a real-time chat feature, allowing users to interact with articles and chat with each other.  
+  [GitHub Repository (Frontend)](https://github.com/AzioizAnass/blog-chat-client)
 
 - **Food Delivery Mobile Application**: A mobile application for food delivery developed using **Java** and **Android Studio**.  
   [GitHub Repository](https://github.com/AzioizAnass/androidResteauProject-master)
