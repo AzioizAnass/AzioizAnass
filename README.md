@@ -1,4 +1,4 @@
-# 🌟 Anas Azioiz - Full Stack Engineer 🚀
+# Anas Azioiz - Full Stack Engineer
 
 <p align="flex">
   <a href="https://linkedin.com/in/anas-azioiz"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
@@ -6,12 +6,12 @@
 </p>
 
 
-## 👨‍💻 **About Me**  
-I’m a passionate **Full Stack Engineer** with a love for building impactful solutions using **Java** and **React**. I enjoy designing, developing, and maintaining scalable and efficient web applications. My focus is on continuous learning and mastering cutting-edge technologies to deliver high-quality software. 🌱  
+## **About Me**  
+I’m a passionate **Full Stack Engineer** with a love for building impactful solutions using **Java** and **React**. I enjoy designing, developing, and maintaining scalable and efficient web applications. My focus is on continuous learning and mastering cutting-edge technologies to deliver high-quality software.
 
 ---
 
-## 🎯 Passion Projects
+## Passion Projects
 
 I have worked on various personal and academic projects, which you can explore in my GitHub repositories! These include:
 
@@ -31,7 +31,7 @@ I have worked on various personal and academic projects, which you can explore i
   [GitHub Repository](https://github.com/AzioizAnass/resume_builder)
 
 ---
-## 🔧 **Tech Stack**
+## **Tech Stack**
 
 - **Backend**:  
   <p align="flex" >
@@ -64,11 +64,11 @@ I have worked on various personal and academic projects, which you can explore i
 
 ---
 
-## 📩 **Get in Touch**  
+## **Get in Touch**  
 
 📧 Email: azioiz.anass@gmail.com  
 📍 Location: Oujda, Morocco  
 
 ---
 
-✨ *Explore my repositories and let’s build something amazing together!*
+*Explore my repositories and let’s build something amazing together!*
